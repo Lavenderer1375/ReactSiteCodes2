@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactSite2/static/css/main.4680b4c7.chunk.css",
+    "main.js": "/ReactSite2/static/js/main.7e369365.chunk.js",
+    "main.js.map": "/ReactSite2/static/js/main.7e369365.chunk.js.map",
+    "runtime-main.js": "/ReactSite2/static/js/runtime-main.f7c50f1b.js",
+    "runtime-main.js.map": "/ReactSite2/static/js/runtime-main.f7c50f1b.js.map",
+    "static/js/2.17e74909.chunk.js": "/ReactSite2/static/js/2.17e74909.chunk.js",
+    "static/js/2.17e74909.chunk.js.map": "/ReactSite2/static/js/2.17e74909.chunk.js.map",
+    "index.html": "/ReactSite2/index.html",
+    "static/css/main.4680b4c7.chunk.css.map": "/ReactSite2/static/css/main.4680b4c7.chunk.css.map",
+    "static/js/2.17e74909.chunk.js.LICENSE.txt": "/ReactSite2/static/js/2.17e74909.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/ReactSite2/static/media/YouTube(4).1f467713.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7c50f1b.js",
+    "static/js/2.17e74909.chunk.js",
+    "static/css/main.4680b4c7.chunk.css",
+    "static/js/main.7e369365.chunk.js"
+  ]
+}
